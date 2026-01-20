@@ -1,6 +1,6 @@
 # Assistive Vision System for Blind Persons
 
-An intelligent computer vision system designed to assist visually impaired individuals in navigating their environment. The system uses YOLO object detection, enhanced distance estimation, and voice commands to provide real-time audio feedback about surrounding objects and obstacles.
+An intelligent computer vision system designed to assist visually impaired individuals in navigating their environment. The system uses YOLO object detection, enhanced distance estimation, and voice commands to provide real-time audio feedback about surrounding objects as well as obstacles.
 
 ## 🌟 Features
 
